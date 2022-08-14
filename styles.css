@@ -1,0 +1,32 @@
+﻿body {
+    margin: 20px;
+ font-family: Garamond, Arial, Verdana, Helvetica, Tahoma, Trebuchet MS, Times New Roman, Georgia, Courier New, Brush Script MT;
+}
+
+
+
+.avatar {
+    width: 150px;
+}
+
+
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+	 background: #949BA0;
+    color: #474647;
+    border-bottom: 6px solid #0F0326;
+
+}
+
+
+
+.border-blue {
+    border: 1px dotted blue;
+}
